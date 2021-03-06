@@ -1,0 +1,16 @@
+The goodies selected for distribution are: 
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+
+And the difference between the chosen goodie with highest price and the lowest price is  7605
+The goodies selected for distribution are: 
+Cult Pass: 2799
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Scale: 4999
+
+And the difference between the chosen goodie with highest price and the lowest price is  7001
+The goodies selected for distribution are: 
+Cult Pass: 2799
+
+And the difference between the chosen goodie with highest price and the lowest price is  0
